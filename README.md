@@ -1,14 +1,14 @@
-<p align="center">──「 𝑺 𝑻 𝑶 𝑹 𝑴 🥀」──</p>
+<p align="center">──「 𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠 ➽ 𝗫❗ 🫧 」──</p>
  
 <h4 align="center"> 𝘼 𝙋𝙊𝙒𝙀𝙍𝙁𝙐𝙇𝙇 𝙎𝙋𝘼𝙈 𝘽𝙊𝙏</h4>
 
 <p align="center"><a href="https://t.me/UNI_INDIA_0000"></a></p>
 
 <p align="center">
-  <img src="./Storm.jpeg" alt="Logo">
+  <img src="https://telegra.ph/file/eccb591279be2d1396223.jpg" alt="Logo">
 </p>
 
-<p align="center">──「 𝑺 𝑻 𝑶 𝑹 𝑴 🥀」──</p>
+<p align="center">──「 𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠 ➽ 𝗫❗ 🫧 」──</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # REQUIRED VARIBLES & DESCRIPTION
 
@@ -91,7 +91,7 @@ Commands | Description
 • [your hndlr]gm or [your hndlr]gm | Used Me To Spam Gud morning Msgs In The Chats
 • [your hndlr]help or [your hndlr]help | Used Me To Find Out More New Commands
 
-MADE BY 💕 [KANU_XD </>](https://t.me/kexx_xd)
+MADE BY 💕 [HARAMI](https://t.me/Vivek_y05)
 
 # DON'T FORGET TO GIVE A STAR 💫⭐
 
